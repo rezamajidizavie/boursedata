@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light" style="position:absolute;width:100%">
     <a class="navbar-brand" href="#">بورس تحلیل</a>
     <button
       class="navbar-toggler"
